@@ -14,7 +14,7 @@
         <script src="{{ asset('themes/website/js/app.js') }}" defer></script>
     </head>
     <body class="">
-        <main class="antialiased bg-gradient-to-b min-h-screen from-[#ddd533] to-yellow-500 p-6">
+        <main class="antialiased bg-gradient-to-b min-h-screen  bg-[#FFCF01] p-6">
             {{-- <x-website-header /> --}}
             <div class="mx-auto max-w-7xl">
                 {{ $slot }}

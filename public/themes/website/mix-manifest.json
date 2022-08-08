@@ -35,11 +35,13 @@
     "/fonts/tsh400.woff": "/fonts/tsh400.woff",
     "/fonts/tsh400.woff2": "/fonts/tsh400.woff2",
     "/images/CoffeeDoddle.svg": "/images/CoffeeDoddle.svg",
+    "/images/book.png": "/images/book.png",
     "/images/calendar-1.png": "/images/calendar-1.png",
     "/images/logo-black.svg": "/images/logo-black.svg",
     "/images/logo-green.svg": "/images/logo-green.svg",
     "/images/logo-white.svg": "/images/logo-white.svg",
     "/images/logo.svg": "/images/logo.svg",
+    "/images/profilr-photo.jpeg": "/images/profilr-photo.jpeg",
     "/images/register-form-icon.png": "/images/register-form-icon.png",
     "/images/resource.png": "/images/resource.png",
     "/images/service.png": "/images/service.png",
@@ -47,6 +49,5 @@
     "/images/unit.png": "/images/unit.png",
     "/images/user.png": "/images/user.png",
     "/images/vendor-logo.png": "/images/vendor-logo.png",
-    "/images/book.png": "/images/book.png",
-    "/images/profilr-photo.jpeg": "/images/profilr-photo.jpeg"
+    "/images/un.jpeg": "/images/un.jpeg"
 }
